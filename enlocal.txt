@@ -1,7 +1,7 @@
 desde la pc local
 
-<<<<<<< HEAD
+
 tambien modificamos de manera local
-=======
+
 modificamos desde internet 
->>>>>>> 5e2f5d5175dcce92ca6e712665459ff2f6465a26
+
